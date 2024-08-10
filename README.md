@@ -10,7 +10,10 @@ Es necesario instalar docker y [Astro CLI](https://www.astronomer.io/docs/astro/
 astro dev start
 
 # Arrancar astro con Docker
-sudo astro dev start
+astro dev start
+
+# Reiniciar
+astro dev restart
 
 ```
 
